@@ -1,0 +1,18 @@
+# .gitignore
+
+*.txt
+*.csv
+*.h5
+*.pickle
+*.pkl
+*.tmp
+
+Reference/
+reference/
+Submission/
+submission/
+Data/
+data/
+Model/
+model/
+.ipynb_checkpoints/
